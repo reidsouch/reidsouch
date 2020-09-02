@@ -8,4 +8,4 @@ __[Spine Research Institute](https://spine.osu.edu/)__ working with:
   
 I am interested in pursing a career in research or applied data science within the realm of biomechanics, medical robotics, or branching into the space industry. I have an extensive background in MATLAB, and now transitioning into Python. I plan on documenting some of my research projects, alongside with python side projects.
 
-#### Find me on [LinkedIn](https://www.linkedin.com/in/reid-souchereau-444414151/) or reach out to me personally if you have any questions or would like to network.
+#### Find me on [LinkedIn](https://www.linkedin.com/in/reid-souchereau-444414151/) or reach out to me personally if you have any questions or would like to network! :handshake:
