@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm Reid Souchereau. I am currently a Master's Student in Industrial Engineering at _The_ Ohio State University :chestnut: and have a Bachelor's degree in Biomedical Engineering from The Ohio State University. I am a graduate reasearch associate in the 
+My name is Reid Souchereau. I am currently a Master's Student in Industrial Engineering at _The_ Ohio State University :chestnut: and have a Bachelor's degree in Biomedical Engineering from _The_ Ohio State University. I am a graduate reasearch associate in the 
 __[Spine Research Institute](https://spine.osu.edu/)__ working with:
 
   - Spine biomechanical modeling :runner: :nut_and_bolt:
